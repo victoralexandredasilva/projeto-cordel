@@ -74,10 +74,10 @@ section#imagem2{
     color:white
 }
 
-section article p{
+section p{
     font-family: var(--font-text);
     font-size: 1.8em;
-    padding: 80px 0px 80px 40px;
+    padding: 80px 0px 80px 30px;
 }
 
 .normal{
