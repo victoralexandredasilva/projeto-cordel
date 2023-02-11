@@ -24,7 +24,7 @@ body{
 
 header{
     background-color: black;
-    height: 200px;
+    min-height: 200px;
     text-align: center;
     
 }
@@ -34,7 +34,7 @@ header h1{
     padding-top: 50px;
     font-family: var(--font-title);
     font-weight: bold;
-    font-size: 80px;
+    font-size: 50px;
     font-variant: small-caps;
     letter-spacing: 1.5px;
     
