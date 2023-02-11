@@ -48,8 +48,7 @@ header h1{
 header p{
     color:white;
     font-family: var(--font-footer);
-    font-size: 1.5em;
-    
+    font-size:1em;  
 
 }
 
@@ -67,7 +66,7 @@ section{
     padding-bottom: 10vh;
     padding: 0px;
     min-width: 300px;
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 section#imagem1{
