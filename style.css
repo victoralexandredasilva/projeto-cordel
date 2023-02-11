@@ -66,7 +66,7 @@ section{
     padding-bottom: 10vh;
     padding: 0px;
     min-width: 300px;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 section#imagem1{
@@ -91,6 +91,7 @@ section#imagem2{
 section p{
     font-family: var(--font-text);
     padding: 80px 0px 80px 30px;
+    font-size: 1em;
     
 }
 
