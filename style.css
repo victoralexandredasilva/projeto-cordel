@@ -25,7 +25,6 @@ body{
 
 header{
     background-color: black;
-    min-height: 150px;
     text-align: center;
     margin: auto;
     padding:20px;
@@ -34,10 +33,10 @@ header{
 
 header h1{
     color: white;
-    padding-top: 0px;
+    padding-top: 50px;
     font-family: var(--font-title);
     font-weight: bold;
-    font-size: 10vw;
+    font-size: 11vw;
     font-variant: small-caps;
     letter-spacing: 1.5px;
     
@@ -49,6 +48,7 @@ header p{
     color:white;
     font-family: var(--font-footer);
     font-size:1em;  
+    padding-bottom: 50px;
 
 }
 
@@ -64,9 +64,10 @@ header a:hover{
 section{
     padding-top: 10vh;
     padding-bottom: 10vh;
-    padding: 0px;
-    min-width: 300px;
     font-size: 4vw;
+    line-height: 2em;
+    padding: 0px;
+   
 }
 
 section#imagem1{
@@ -76,7 +77,6 @@ section#imagem1{
     background-attachment: fixed;
     background-position: right center;
     color:white;
-    
 }
 
 section#imagem2{
@@ -100,6 +100,7 @@ section p{
 
 footer{
     background-color: black;
+    
 }
 
 footer p,a {
